@@ -6,7 +6,7 @@
 //  Copyright © 2016 Tipsi. All rights reserved.
 //
 
-#import <React/UIView+React.h>
+#import "UIView+React.h"
 #import "Stripe.h"
 
 @interface TPSCardField : UIView

@@ -6,7 +6,7 @@
 //  Copyright © 2016 Tipsi. All rights reserved.
 //
 
-#import <React/RCTViewManager.h>
+#import "RCTViewManager.h"
 
 @interface TPSCardFieldManager : RCTViewManager
 

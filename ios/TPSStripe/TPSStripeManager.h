@@ -9,8 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <PassKit/PassKit.h>
 #import "Stripe.h"
-#import <React/RCTBridgeModule.h>
-#import <React/RCTConvert.h>
+#import "RCTBridgeModule.h"
+#import "RCTConvert.h"
 
 @interface TPSStripeManager : NSObject <RCTBridgeModule, PKPaymentAuthorizationViewControllerDelegate, STPAddCardViewControllerDelegate>
 
