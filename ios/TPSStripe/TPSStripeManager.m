@@ -7,7 +7,7 @@
 //
 
 #import "TPSStripeManager.h"
-#import <React/RCTUtils.h>
+#import "RCTUtils.h"
 
 @implementation TPSStripeManager
 {

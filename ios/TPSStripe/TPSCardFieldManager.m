@@ -8,7 +8,7 @@
 
 #import "TPSCardFieldManager.h"
 #import "TPSCardField.h"
-#import <React/RCTFont.h>
+#import "RCTFont.h"
 
 @implementation TPSCardFieldManager
 
